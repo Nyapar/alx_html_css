@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+}
+
+[class*='col-'] {
+  flex: 1;
+  padding: 10px;
+}
+
+/* Grid section */
+.col-6 {
+  flex-basis: 50%;
+}
+
+.col-12 {
+  flex-basis: 100%;
+}
+
