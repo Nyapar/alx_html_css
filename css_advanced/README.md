@@ -1,0 +1,1 @@
+This project focuses on advanced CSS styling to enhance the visual appearance and design of a web page. The goal is to build upon the previous HTML project and apply CSS techniques to create an aesthetically pleasing and user-friendly web page.
